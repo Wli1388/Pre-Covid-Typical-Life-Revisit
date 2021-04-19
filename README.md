@@ -1,4 +1,4 @@
-## Pre-Covid-Typical-Life-Revisit
+# Pre-Covid-Typical-Life-Revisit
 
 An adventure game where you play as an average Joe before the COVID-19 Pandemic
 
@@ -10,4 +10,5 @@ Your objective is to survive to 10:00 PM
 
 Good Luck and Have Fun!
 
-PS: Ignore the Warnings. I was forced to have a raw type ArrayList due to project constraints.
+## PS
+Ignore the Warnings. I was forced to have a raw type ArrayList due to project constraints.
