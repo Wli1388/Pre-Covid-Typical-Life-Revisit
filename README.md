@@ -1,4 +1,4 @@
-# Pre-Covid-Typical-Life-Revisit
+## Pre-Covid-Typical-Life-Revisit
 
 An adventure game where you play as an average Joe before the COVID-19 Pandemic
 
